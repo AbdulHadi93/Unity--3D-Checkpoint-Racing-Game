@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 09fee5bd7a6351144bc0a4b4a6ea06a2
+timeCreated: 1502546224
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: black
+    100002: body
+    100004: body 1
+    100006: body 2
+    100008: body 3
+    100010: body 4
+    100012: body 5
+    100014: body 6
+    100016: body 7
+    100018: body 8
+    100020: checker
+    100022: checker01
+    100024: //RootNode
+    100026: chrome
+    100028: chrome 1
+    100030: chrome 2
+    100032: chrome 3
+    100034: chrome 4
+    100036: chrome01
+    100038: chrome02
+    100040: chrome03
+    100042: chrome04
+    100044: chrome05
+    100046: chrome06
+    100048: chrome08
+    100050: chrome09
+    100052: chrome16
+    100054: chrome17
+    100056: chrome19
+    100058: chrome20
+    100060: chrome21
+    100062: chrome22
+    100064: chrome23
+    100066: d glass
+    100068: d glass 1
+    100070: d glass 2
+    100072: d glass 3
+    100074: dash
+    100076: dash02
+    100078: glass
+    100080: grey
+    100082: gum
+    100084: gum 1
+    100086: gum 10
+    100088: gum 11
+    100090: gum 12
+    100092: gum 13
+    100094: gum 14
+    100096: gum 15
+    100098: gum 16
+    100100: gum 17
+    100102: gum 18
+    100104: gum 19
+    100106: gum 2
+    100108: gum 20
+    100110: gum 21
+    100112: gum 22
+    100114: gum 3
+    100116: gum 4
+    100118: gum 5
+    100120: gum 6
+    100122: gum 7
+    100124: gum 8
+    100126: gum 9
+    100128: gum01
+    100130: gum02
+    100132: gum03
+    100134: gum04
+    100136: gum05
+    100138: gum06
+    100140: gum07
+    100142: gum08
+    100144: gum09
+    100146: gum10
+    100148: gum11
+    100150: gum11 1
+    100152: gum12
+    100154: gum12 1
+    100156: gum13
+    100158: gum14
+    100160: gum15
+    100162: gum16
+    100164: gum17
+    100166: gum18
+    100168: gum32
+    100170: gum33
+    100172: gum34
+    100174: gum35
+    100176: gum36
+    100178: int
+    100180: int 1
+    100182: int_noMS
+    100184: lamp01
+    100186: lamp02
+    100188: plate
+    100190: r glass01
+    100192: red
+    100194: red 1
+    100196: red01
+    100198: red01 1
+    100200: red01 2
+    100202: red04
+    100204: red05
+    100206: silver
+    100208: silver 1
+    100210: silver 2
+    100212: silver 3
+    100214: silver 4
+    100216: silver01
+    100218: silver02
+    100220: silver03
+    100222: silver04
+    100224: silver05
+    100226: silver06
+    100228: silver07
+    100230: wood
+    400000: black
+    400002: body
+    400004: body 1
+    400006: body 2
+    400008: body 3
+    400010: body 4
+    400012: body 5
+    400014: body 6
+    400016: body 7
+    400018: body 8
+    400020: checker
+    400022: checker01
+    400024: //RootNode
+    400026: chrome
+    400028: chrome 1
+    400030: chrome 2
+    400032: chrome 3
+    400034: chrome 4
+    400036: chrome01
+    400038: chrome02
+    400040: chrome03
+    400042: chrome04
+    400044: chrome05
+    400046: chrome06
+    400048: chrome08
+    400050: chrome09
+    400052: chrome16
+    400054: chrome17
+    400056: chrome19
+    400058: chrome20
+    400060: chrome21
+    400062: chrome22
+    400064: chrome23
+    400066: d glass
+    400068: d glass 1
+    400070: d glass 2
+    400072: d glass 3
+    400074: dash
+    400076: dash02
+    400078: glass
+    400080: grey
+    400082: gum
+    400084: gum 1
+    400086: gum 10
+    400088: gum 11
+    400090: gum 12
+    400092: gum 13
+    400094: gum 14
+    400096: gum 15
+    400098: gum 16
+    400100: gum 17
+    400102: gum 18
+    400104: gum 19
+    400106: gum 2
+    400108: gum 20
+    400110: gum 21
+    400112: gum 22
+    400114: gum 3
+    400116: gum 4
+    400118: gum 5
+    400120: gum 6
+    400122: gum 7
+    400124: gum 8
+    400126: gum 9
+    400128: gum01
+    400130: gum02
+    400132: gum03
+    400134: gum04
+    400136: gum05
+    400138: gum06
+    400140: gum07
+    400142: gum08
+    400144: gum09
+    400146: gum10
+    400148: gum11
+    400150: gum11 1
+    400152: gum12
+    400154: gum12 1
+    400156: gum13
+    400158: gum14
+    400160: gum15
+    400162: gum16
+    400164: gum17
+    400166: gum18
+    400168: gum32
+    400170: gum33
+    400172: gum34
+    400174: gum35
+    400176: gum36
+    400178: int
+    400180: int 1
+    400182: int_noMS
+    400184: lamp01
+    400186: lamp02
+    400188: plate
+    400190: r glass01
+    400192: red
+    400194: red 1
+    400196: red01
+    400198: red01 1
+    400200: red01 2
+    400202: red04
+    400204: red05
+    400206: silver
+    400208: silver 1
+    400210: silver 2
+    400212: silver 3
+    400214: silver 4
+    400216: silver01
+    400218: silver02
+    400220: silver03
+    400222: silver04
+    400224: silver05
+    400226: silver06
+    400228: silver07
+    400230: wood
+    2300000: black
+    2300002: body
+    2300004: body 1
+    2300006: body 2
+    2300008: body 3
+    2300010: body 4
+    2300012: body 5
+    2300014: body 6
+    2300016: body 7
+    2300018: body 8
+    2300020: checker
+    2300022: checker01
+    2300024: chrome
+    2300026: chrome 1
+    2300028: chrome 2
+    2300030: chrome 3
+    2300032: chrome 4
+    2300034: chrome01
+    2300036: chrome02
+    2300038: chrome03
+    2300040: chrome04
+    2300042: chrome05
+    2300044: chrome06
+    2300046: chrome08
+    2300048: chrome09
+    2300050: chrome16
+    2300052: chrome17
+    2300054: chrome19
+    2300056: chrome20
+    2300058: chrome21
+    2300060: chrome22
+    2300062: chrome23
+    2300064: d glass
+    2300066: d glass 1
+    2300068: d glass 2
+    2300070: d glass 3
+    2300072: dash
+    2300074: dash02
+    2300076: glass
+    2300078: grey
+    2300080: gum
+    2300082: gum 1
+    2300084: gum 10
+    2300086: gum 11
+    2300088: gum 12
+    2300090: gum 13
+    2300092: gum 14
+    2300094: gum 15
+    2300096: gum 16
+    2300098: gum 17
+    2300100: gum 18
+    2300102: gum 19
+    2300104: gum 2
+    2300106: gum 20
+    2300108: gum 21
+    2300110: gum 22
+    2300112: gum 3
+    2300114: gum 4
+    2300116: gum 5
+    2300118: gum 6
+    2300120: gum 7
+    2300122: gum 8
+    2300124: gum 9
+    2300126: gum01
+    2300128: gum02
+    2300130: gum03
+    2300132: gum04
+    2300134: gum05
+    2300136: gum06
+    2300138: gum07
+    2300140: gum08
+    2300142: gum09
+    2300144: gum10
+    2300146: gum11
+    2300148: gum11 1
+    2300150: gum12
+    2300152: gum12 1
+    2300154: gum13
+    2300156: gum14
+    2300158: gum15
+    2300160: gum16
+    2300162: gum17
+    2300164: gum18
+    2300166: gum32
+    2300168: gum33
+    2300170: gum34
+    2300172: gum35
+    2300174: gum36
+    2300176: int
+    2300178: int 1
+    2300180: int_noMS
+    2300182: lamp01
+    2300184: lamp02
+    2300186: plate
+    2300188: r glass01
+    2300190: red
+    2300192: red 1
+    2300194: red01
+    2300196: red01 1
+    2300198: red01 2
+    2300200: red04
+    2300202: red05
+    2300204: silver
+    2300206: silver 1
+    2300208: silver 2
+    2300210: silver 3
+    2300212: silver 4
+    2300214: silver01
+    2300216: silver02
+    2300218: silver03
+    2300220: silver04
+    2300222: silver05
+    2300224: silver06
+    2300226: silver07
+    2300228: wood
+    3300000: black
+    3300002: body
+    3300004: body 1
+    3300006: body 2
+    3300008: body 3
+    3300010: body 4
+    3300012: body 5
+    3300014: body 6
+    3300016: body 7
+    3300018: body 8
+    3300020: checker
+    3300022: checker01
+    3300024: chrome
+    3300026: chrome 1
+    3300028: chrome 2
+    3300030: chrome 3
+    3300032: chrome 4
+    3300034: chrome01
+    3300036: chrome02
+    3300038: chrome03
+    3300040: chrome04
+    3300042: chrome05
+    3300044: chrome06
+    3300046: chrome08
+    3300048: chrome09
+    3300050: chrome16
+    3300052: chrome17
+    3300054: chrome19
+    3300056: chrome20
+    3300058: chrome21
+    3300060: chrome22
+    3300062: chrome23
+    3300064: d glass
+    3300066: d glass 1
+    3300068: d glass 2
+    3300070: d glass 3
+    3300072: dash
+    3300074: dash02
+    3300076: glass
+    3300078: grey
+    3300080: gum
+    3300082: gum 1
+    3300084: gum 10
+    3300086: gum 11
+    3300088: gum 12
+    3300090: gum 13
+    3300092: gum 14
+    3300094: gum 15
+    3300096: gum 16
+    3300098: gum 17
+    3300100: gum 18
+    3300102: gum 19
+    3300104: gum 2
+    3300106: gum 20
+    3300108: gum 21
+    3300110: gum 22
+    3300112: gum 3
+    3300114: gum 4
+    3300116: gum 5
+    3300118: gum 6
+    3300120: gum 7
+    3300122: gum 8
+    3300124: gum 9
+    3300126: gum01
+    3300128: gum02
+    3300130: gum03
+    3300132: gum04
+    3300134: gum05
+    3300136: gum06
+    3300138: gum07
+    3300140: gum08
+    3300142: gum09
+    3300144: gum10
+    3300146: gum11
+    3300148: gum11 1
+    3300150: gum12
+    3300152: gum12 1
+    3300154: gum13
+    3300156: gum14
+    3300158: gum15
+    3300160: gum16
+    3300162: gum17
+    3300164: gum18
+    3300166: gum32
+    3300168: gum33
+    3300170: gum34
+    3300172: gum35
+    3300174: gum36
+    3300176: int
+    3300178: int 1
+    3300180: int_noMS
+    3300182: lamp01
+    3300184: lamp02
+    3300186: plate
+    3300188: r glass01
+    3300190: red
+    3300192: red 1
+    3300194: red01
+    3300196: red01 1
+    3300198: red01 2
+    3300200: red04
+    3300202: red05
+    3300204: silver
+    3300206: silver 1
+    3300208: silver 2
+    3300210: silver 3
+    3300212: silver 4
+    3300214: silver01
+    3300216: silver02
+    3300218: silver03
+    3300220: silver04
+    3300222: silver05
+    3300224: silver06
+    3300226: silver07
+    3300228: wood
+    4300000: body
+    4300002: body
+    4300004: gum
+    4300006: chrome
+    4300008: gum
+    4300010: d glass
+    4300012: body
+    4300014: black
+    4300016: plate
+    4300018: int
+    4300020: gum
+    4300022: int_noMS
+    4300024: chrome
+    4300026: int
+    4300028: gum
+    4300030: gum
+    4300032: gum
+    4300034: gum01
+    4300036: chrome02
+    4300038: chrome03
+    4300040: chrome04
+    4300042: gum02
+    4300044: gum03
+    4300046: gum04
+    4300048: gum05
+    4300050: chrome05
+    4300052: chrome06
+    4300054: chrome08
+    4300056: gum06
+    4300058: gum07
+    4300060: wood
+    4300062: gum08
+    4300064: dash
+    4300066: glass
+    4300068: chrome09
+    4300070: red01
+    4300072: gum09
+    4300074: gum
+    4300076: gum10
+    4300078: d glass
+    4300080: d glass
+    4300082: chrome16
+    4300084: checker
+    4300086: gum12
+    4300088: d glass
+    4300090: r glass01
+    4300092: checker01
+    4300094: lamp01
+    4300096: gum13
+    4300098: lamp02
+    4300100: chrome17
+    4300102: gum
+    4300104: dash02
+    4300106: gum14
+    4300108: body
+    4300110: gum11
+    4300112: chrome
+    4300114: gum
+    4300116: red
+    4300118: gum
+    4300120: gum
+    4300122: gum
+    4300124: grey
+    4300126: gum
+    4300128: gum
+    4300130: gum32
+    4300132: gum
+    4300134: gum
+    4300136: red01
+    4300138: body
+    4300140: gum15
+    4300142: gum16
+    4300144: body
+    4300146: gum17
+    4300148: gum18
+    4300150: body
+    4300152: gum
+    4300154: silver02
+    4300156: gum12
+    4300158: silver03
+    4300160: red01
+    4300162: silver
+    4300164: chrome19
+    4300166: gum
+    4300168: gum
+    4300170: chrome
+    4300172: gum
+    4300174: silver
+    4300176: gum11
+    4300178: silver01
+    4300180: red
+    4300182: silver
+    4300184: chrome01
+    4300186: gum
+    4300188: chrome
+    4300190: gum
+    4300192: silver04
+    4300194: gum33
+    4300196: silver05
+    4300198: red04
+    4300200: silver
+    4300202: chrome20
+    4300204: gum34
+    4300206: chrome21
+    4300208: gum
+    4300210: silver06
+    4300212: gum35
+    4300214: silver07
+    4300216: red05
+    4300218: silver
+    4300220: chrome22
+    4300222: gum36
+    4300224: chrome23
+    4300226: body
+    4300228: body
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
